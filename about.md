@@ -6,10 +6,10 @@ permalink: /about/
 
 **Nick : wooeong**
 
-### Like.
+### Likes
 - CTF
 - Travel
-- Game(FIFA Online 4, league of legends, GTA...~~Too many~~)
+- Game(FIFA, league of legends, GTA...~~Too many~~)
 - Movie, Tv Show, Music
 
 ### Contact me
